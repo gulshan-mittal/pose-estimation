@@ -1,0 +1,15 @@
+decorator==4.3.0
+deepgaze==0.1
+h5py==2.8.0
+numpy==1.15.4
+opencv-python==3.4.4.19
+pkg-resources==0.0.0
+tensorboard==1.9.0
+tensorflow-gpu==1.9.0
+tornado==5.1.1
+tqdm==4.28.1
+traitlets==4.3.2
+wcwidth==0.1.7
+webencodings==0.5.1
+Werkzeug==0.14.1
+widgetsnbextension==3.4.2
